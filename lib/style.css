@@ -1,0 +1,16 @@
+.col {
+  padding: 15pt 30pt 15pt 30pt;
+}
+#titprincipal {
+  text-align: center;
+  background-color: rgb(159,193,228);
+  color: white;
+  padding: 15pt;
+  margin: 0;
+}
+#colparrafo {
+  background-color: rgb(159,193,228);
+}
+body {
+  padding: 20pt 0pt 20pt 0pt;
+}
